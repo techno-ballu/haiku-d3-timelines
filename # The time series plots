@@ -1,0 +1,53 @@
+Prepare PPT with screenshots...
+
+# The time series plots
+- weekend hoodies sales (show)
+- weekday hoodies sales (show)
+
+# User segments
+- User segments by age - 
+- User segments by expenditure
+- User segments by gender?
+
+# Product segments
+- by department
+- by shirt_type
+- by shirt_color
+- by shirt_gender
+
+# User vs Product mappings
+- age vs department?
+- age vs shirt_type
+- age vs shirt_color
+- expenditure vs department
+- expenditure vs shirt_type
+- expenditure vs shirt_gender
+- gender vs department
+- gender vs shirt_type
+
+# Model time series
+Build model for metric vs time components
+
+
+# Done these time series analysis
+- daily shirts sales (too many points)
+- weekend nb_shirts sales (y-axis too high)
+- weekday shirts sales (too many points)
+- daily t-shirts sales (too many points)
+- daily hoodies sales (too many points)
+- daily department sales (too many points)
+- daily sales by gender/color (too many points)
+- weekend shirts sales (too high)
+- weekend t-shirts sales (too high)
+
+# Descriptive analysis
+- total/nb_shirts vs shirt_type
+- total/nb_shirts vs color
+- total/nb_shirts vs gender
+- total/nb_shirts vs order_year
+- total/nb_shirts vs order_month
+- total/nb_shirts vs order_day
+- total/nb_shirts vs order_weekday
+- total/nb_shirts vs order_hour
+- total/nb_shirts vs department
+
